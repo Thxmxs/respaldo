@@ -1,0 +1,27 @@
+﻿
+@using TurismoRealWebw.negocio;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Listado de reservas</h2>
+
+@{ List<Reserva> reservas = (List<Reserva>)ViewBag.reservas;}
+
+<table>
+    <tr>
+        <th>nombreUsuario</th>
+        <th>fechaEntrada</th>
+        <th>fechaSalida</th>
+        <th>firmaConformidadCliente</th>
+    </tr>
+    @foreach (var Reserva in reservas)
+    {
+<tr>
+    <td>@Reserva.usuario.nombre</td>
+    <td>@Reserva.fechaEntrada</td>
+    <td>@Reserva.fechaSalida</td>
+    <td>@Reserva.firmaConformidadCliente</td>
+</tr>
+    }
+</table>

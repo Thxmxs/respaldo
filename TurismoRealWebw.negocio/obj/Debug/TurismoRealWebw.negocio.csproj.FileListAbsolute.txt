@@ -1,0 +1,13 @@
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\bin\Debug\TurismoRealWebw.negocio.dll
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\bin\Debug\TurismoRealWebw.negocio.pdb
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\bin\Debug\TurismoRealWebw.DALC.dll
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\bin\Debug\EntityFramework.dll
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\bin\Debug\TurismoRealWebw.DALC.pdb
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\bin\Debug\TurismoRealWebw.DALC.dll.config
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\bin\Debug\EntityFramework.xml
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\obj\Debug\TurismoRealWebw.negocio.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\obj\Debug\TurismoRealWebw.negocio.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\obj\Debug\TurismoRealWebw.negocio.csproj.CopyComplete
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\obj\Debug\TurismoRealWebw.negocio.dll
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\obj\Debug\TurismoRealWebw.negocio.pdb
+C:\Users\thoma\source\repos\TurismoRealWebw\TurismoRealWebw.negocio\bin\Debug\TurismoRealWebw.negocio.dll.config
